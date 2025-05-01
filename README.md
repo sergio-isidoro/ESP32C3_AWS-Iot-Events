@@ -66,6 +66,7 @@ This system can be adapted for various IoT applications such as:
 ## 📸 **Photos**
 
 ![ESP32C3_PinOut](https://github.com/user-attachments/assets/6acbe8f2-9935-40ed-a314-100a2d607c5e)
+![Captura de ecrã 2025-05-01 192512](https://github.com/user-attachments/assets/c8b79e2a-0eac-41ed-8128-dca047f3f329)
 
 ## Github link
 
