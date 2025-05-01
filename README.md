@@ -63,6 +63,10 @@ This system can be adapted for various IoT applications such as:
 
 ---
 
+## 📸 **Photos**
+
+![ESP32C3_PinOut](https://github.com/user-attachments/assets/6acbe8f2-9935-40ed-a314-100a2d607c5e)
+
 ## Github link
 
 [Automated_Control_System_with_AWS_IoT_Events](https://github.com/manoper93/ESP32C3_AWS-Iot-Events)
