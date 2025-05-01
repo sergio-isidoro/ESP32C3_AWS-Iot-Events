@@ -27,8 +27,6 @@ This project implements an automated control system that integrates the ESP32 wi
 |:-------:|:----------------------:|
 | D1      | Output LED             |
 | D2      | Button Input           |
-| D3      | GPIO Sensor Input      |
-| D4      | MQTT Status LED        |
 
 ---
 
