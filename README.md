@@ -66,7 +66,7 @@ This system can be adapted for various IoT applications such as:
 ## 📸 **Photos**
 
 ![ESP32C3_PinOut](https://github.com/user-attachments/assets/6acbe8f2-9935-40ed-a314-100a2d607c5e)
-![wokwi](https://github.com/user-attachments/assets/b091e0b2-77aa-4529-b520-938c3213bd42)
+![wokwi](https://github.com/user-attachments/assets/5ddce3f7-f39f-466d-986b-3478c4b40cd3)
 ![AWS_Iot](https://github.com/user-attachments/assets/c8b79e2a-0eac-41ed-8128-dca047f3f329)
 
 ## Github link
