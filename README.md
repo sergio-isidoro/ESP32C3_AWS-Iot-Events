@@ -1,4 +1,4 @@
-# 🔥 **Automated Control System with AWS IoT Events Integration**
+# Automated Control System with AWS IoT Events Integration
 
 This project implements an automated control system that integrates the ESP32 with AWS IoT Events for real-time event detection, device monitoring, and automated actions. It uses AWS IoT Core, SNS for notifications, and IoT Events for seamless event management based on sensor data.
 
